@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "Red Rose Bouquet",
+      "category": "Flowers",
+      "type": "Bouquet",
+      "color": "Red",
+      "price": 19.99,
+      "currency": "USD",
+      "stock": 25,
+      "image": "red-rose-bouquet.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Yellow Tulip Bundle",
+      "category": "Flowers",
+      "type": "Bundle",
+      "color": "Yellow",
+      "price": 14.99,
+      "currency": "USD",
+      "stock": 40,
+      "image": "yellow-tulip-bundle.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Sunflower Arrangement",
+      "category": "Flowers",
+      "type": "Arrangement",
+      "color": "Yellow",
+      "price": 24.99,
+      "currency": "USD",
+      "stock": 0,
+      "image": "sunflower-arrangement.jpg"
+    },
+    {
+      "id": 104,
+      "name": "White Lily Vase",
+      "category": "Flowers",
+      "type": "Vase",
+      "color": "White",
+      "price": 29.99,
+      "currency": "USD",
+      "stock": 15,
+      "image": "white-lily-vase.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Purple Orchid Pot",
+      "category": "Flowers",
+      "type": "Potted Plant",
+      "color": "Purple",
+      "price": 39.99,
+      "currency": "USD",
+      "stock": 10,
+      "image": "purple-orchid-pot.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Mixed Daisy Basket",
+      "category": "Flowers",
+      "type": "Basket",
+      "color": "Mixed",
+      "price": 17.99,
+      "currency": "USD",
+      "stock": 30,
+      "image": "mixed-daisy-basket.jpg"
+    }
+  ]
+}

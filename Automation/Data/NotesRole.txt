@@ -1,0 +1,94 @@
+//When  you install node js 
+//you get access to inbuilt modules
+//http module : to create web server
+//events module : to handle events
+//os module : operating system module
+//fs module : file system module
+//path module : path related operations
+//more than 20 inbuilt modules
+
+var fs=require("fs");  //importing fs module
+
+var data="This is sample text for file operations using fs module in NodeJS";
+fs.appendFileSync("../automation/data/transflower.txt",data); //synchronous write
+
+
+
+//To create any application
+//you need  libraries or modules
+//to perform specific tasks (algorithms)
+
+//For file related operations we use fs module
+
+//Node Testers: JavaScript
+//Framework : Mocha, Jasmine, Jest, Cypress, Puppeteer
+//Playwright, Selenium (WebDriverJS), WebdriverIO, Nightwatch.js
+//choukidar (file watcher),
+//chai (assertion library)
+
+//Java Testers:Java
+//Testng framework : Junit, TestNG (libraries)
+
+//.NET Testers: C#
+//NUnit framework, MSTest framework (libraries)
+//
+
+//library downloding tool : 
+//NodeJS: npm (Node Package Manager)
+//Java: Maven, Gradle
+//Python: Pip
+//Ruby: Gem
+//.net: Nuget Package Manager
+
+//Essential things needed for programming
+//1. language (JavaScript, Java, C#, Python, Ruby)
+//2. libraries / modules (fs module, http module, os module)
+//3. IDE / Text Editor (VS Code, Sublime Text, Atom, Notepad++, Eclipse, IntelliJ, Visual Studio )
+//4. Runtime Environment (NodeJS for JavaScript, JRE for Java, .net runtime for C#)
+//5. Package Manager (npm for NodeJS, Maven for Java, Nuget for .net)
+
+//Then start learning Frameworks and Tools
+//Frameworks  (Testing ): Mocha, Jasmine, Jest for JavaScript
+//TestNG, Junit for Java
+
+//Web Frameworks : ExpressJS for NodeJS
+//Django, Flask for Python
+//Rails for Ruby
+//ASP.net for .net
+//Spring Boot for Java
+
+//Tools : Git (Version Control),
+//SVN (Version Control),
+//Azure DevOps (CI/CD),
+//IBM clear case (Version Control),
+//GitLab CI/CD,
+
+//SDLC : Software Development Life Cycle 
+// (Planning, Analysis, Design, Development, Testing, Deployment, Maintenance)
+
+//Metodologies : Agile, Scrum, Waterfall, Kanban
+
+//Scrum Framework :
+//Roles : Product Owner, Scrum Master, Development Team
+//Artifacts : Product Backlog, Sprint Backlog, Increment
+//Events : Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective
+
+//Development Team in Scrum
+//1. Developers (Frontend, Backend, Fullstack)
+//2. Testers (Manual Testers, Automation Testers)
+//3. DevOps Engineers (Production environment, Testing environment, 
+//                     Development environment setup, CI/CD pipelines)
+
+//4. BA (Business Analysts)
+//Stack holders in Scrum
+//1. Customers
+//2. Users
+//3. Management (Project Managers, Program Managers, Portfolio Managers)
+
+//5. UX/UI Designers
+//6. Database Administrators
+//7. System Administrators
+//8. Network Administrators
+
+
+//All in one roles: Individual Contributors (ICs)
